@@ -1,7 +1,5 @@
 # Student-Mangaemnet-System
-# Student-Management-System
 
-# Student Management System
 
 ## Description
 (project description)
